@@ -1,0 +1,295 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+}
+
+.retangulo {
+    position: absolute;
+    width: 103%;
+    height: 2%;
+    left: -3%;
+    top: 13%;
+    background: #B2ECD0;
+}
+
+.escuro {
+    position: absolute;
+    width: 103%;
+    height: 84px;
+    left: -3%;
+    top: 114px;
+
+    background: #00BF63;
+
+}
+
+.Logo img {
+    position: absolute;
+    width: 25.5%;
+    height: 25.5%;
+    left: 0.5%;
+    top: 1.6%;
+
+    background: url(-love-text-heart-removebg-preview.png);
+
+}
+
+.nome h1{
+
+    Position: absolute;
+    width: 10%;
+    height: 2%;
+    left: 32%;
+    top: 27%;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 155%;
+    color: rgb(248, 244, 244);
+
+    
+}
+
+.BDHOME1 {
+    Position: absolute;
+    width: 12%;
+    height: 7.5%;
+    left: 17%;
+    top: 16.9%;
+
+    background: rgba(65, 76, 80, 0.4);
+    border-radius: 41px;
+}
+
+.credito img {
+    position: absolute;
+width: 836%;
+height: 1600%;
+left: -145%;
+top: 113%;
+background: rgba(217, 217, 217, 0.4);
+}
+
+     
+
+.pngpaciente img {
+    position: absolute;
+    width: 30%;
+    height: 80%;
+    left: 600%;
+    top: 5%;
+
+    background: url(image);
+
+}
+
+.cliente h1{
+    
+    width: 100%;
+    height: 100%;
+    left: 32%;
+    top: 27%;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 155%;
+    color: rgb(5, 4, 4);
+
+
+
+}
+
+.Principal img {
+    position: absolute;
+    width: 100%;
+    height: 84%;
+    left: 0%;
+    top: 26.2%;
+
+    background: url(frutas-y-verduras-2-1.jpg);
+
+
+}
+
+.Frase {
+    position: absolute;
+    width: 29%;
+    height: 7%;
+    left: 48%;
+    top: 49%;
+
+    font-family: 'Niconne';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 350%;
+    line-height: 127%;
+
+    color: #000000;
+
+
+}
+
+.drsalvati h3 {
+
+    position: absolute;
+    width: 10%;
+    height: 20%;
+    left: 60%;
+    top: 85%;
+
+    font-family: 'Niconne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 160%;
+    line-height: 10%;
+
+    color: #000000;
+
+}
+
+.botao {
+
+    position: absolute;
+    width: 18%;
+    height: 8%;
+    left: 49%;
+    top: 90%;
+
+    background: rgba(65, 76, 80, 0.4);
+    border-radius: 41px;
+
+}
+.botaoA{
+
+    position: absolute;
+    width: 25%;
+    height: 10%;
+    left: 50.4%;
+    top: 93%;
+    
+    font-family: '?????';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    
+    color: #000000;
+    
+
+}
+.zap img{
+    position: absolute;
+    width: 4%;
+    height: 7%;
+    left: -0.11%;
+    top: 7.4%;
+
+}
+.facebook img{
+    position: absolute;
+    width: 2.7%;
+    height: 4.6%;
+    left: 4%;
+    top: 8.3%;
+    
+
+}
+.insta img{
+    position: absolute;
+    width: 3%;
+    height: 4.9%;
+    left: 7.5%;
+    top: 8.2%;
+    
+
+}
+
+.BDHOME2 {
+    Position: absolute;
+    width: 360%;
+    height: 80%;
+    left: 80%;
+    top: 180%;
+    background: rgb(246, 246, 246);
+    border-radius: 5px;
+    border: #000000 1px solid;
+}
+
+.nome2 h1{
+    
+    Position: absolute;
+    width: 370%;
+    height: 2%;
+    left: 90%;
+    top: 190%;
+    font-family: '?????';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 180%;
+    color: rgb(0, 0, 0);
+}
+
+.quadrado{
+    box-sizing: border-box;
+
+position: absolute;
+width: 150%;
+height: 600%;
+left: 0%;
+top: 300%;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+border-radius: 10px;
+
+}
+
+.quadrado2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 150%;
+height: 600%;
+left: 200%;
+top: 300%;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+border-radius: 10px;
+
+}
+.quadrado3{
+    box-sizing: border-box;
+
+position: absolute;
+width: 150%;
+height: 600%;
+left: 400%;
+top: 300%;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+border-radius: 10px;
+
+}
+
+.quadrado4{
+    box-sizing: border-box;
+
+position: absolute;
+width: 150%;
+height: 600%;
+left: 200%;
+top: 970%;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+border-radius: 10px;
+
+}
+
+
